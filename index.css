@@ -208,7 +208,7 @@
         height: 450px;
         width: 560px;
         
-        background-image: url("../public/about.jpeg");
+        background-image: url("../images/about.jpeg");
         background-size: cover;
         background-position: center;
     }
@@ -329,7 +329,7 @@
     .pic {
         width: 90%;
 
-        background-image: url("../public/offer.jpeg");
+        background-image: url("../images/offer.jpeg");
         background-size: cover;
         object-fit: contain;
         border-radius: 15px;
